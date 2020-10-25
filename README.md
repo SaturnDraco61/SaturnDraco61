@@ -1,7 +1,7 @@
 ### Hi there, welcome to my profile!🤖
 
 
-**SaturnDraco61/SaturnDraco61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SaturnDraco61/SaturnDraco61** 
 
 
 - 🔭 I’m currently not working 
@@ -10,5 +10,5 @@
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about C# & GO
 - 📫 How to reach me: Secret XD
-- ⚡ Fun fact: 
+
 
